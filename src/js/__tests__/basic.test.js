@@ -6,8 +6,8 @@ test('Должно работать', (done) => {
     created: 1546300800,
     userInfo: {
       id: 1,
-      level: 10,
       name: 'Hitman',
+      level: 10,
       points: 2000,
     },
   });

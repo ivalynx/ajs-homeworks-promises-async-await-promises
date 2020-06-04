@@ -11,7 +11,7 @@ module.exports = {
     rules: [
       {
         test: /\.txt$/,
-        use: 'raw-loader'
+        use: 'raw-loader',
       },
       {
         test: /\.js$/,
